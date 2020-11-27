@@ -1,0 +1,15 @@
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\ParkwayAssessMent.exe
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.csprojAssemblyReference.cache
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.AssemblyInfoInputs.cache
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.AssemblyInfo.cs
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\ParkwayAssessMent.deps.json
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\ParkwayAssessMent.runtimeconfig.json
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\ParkwayAssessMent.runtimeconfig.dev.json
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\ParkwayAssessMent.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\ParkwayAssessMent.pdb
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.csproj.CoreCompileInputs.cache
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.csproj.CopyComplete
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.pdb
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessMent\ParkwayAssessMent\obj\Debug\netcoreapp3.1\ParkwayAssessMent.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBnfqMTQjJ2X3oNkEOHwx3luxG4rL9a5kY7CVxvmxPGgxsoazTOxlVoF+zBP9wnzb+bGHzofjbhQpupmmyqnZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toochi Nkuzi\\source\\repos\\ParkwayAssessMent\\ParkwayAssessMent\\ParkwayAssessMent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toochi Nkuzi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
